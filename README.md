@@ -2,7 +2,7 @@
 ![alt text](image.png)
 Jogo: Pedra, Papel, Tesoura
 
-##O que é?
+## O que é?
 ***"Pedra, Papel, Tesoura" é um jogo simples onde dois jogadores escolhem entre três opções: pedra, papel ou tesoura.*** 
 **As regras são:**
 
@@ -10,7 +10,7 @@ Pedra ganha de tesoura (quebra a tesoura),
 Tesoura ganha de papel (corta o papel),
 Papel ganha de pedra (cobre a pedra).***
 
-##Como funciona?
+## Como funciona?
 
 ***O jogador escolhe entre as opções "pedra", "papel" ou "tesoura".
 O computador faz uma escolha aleatória entre as mesmas opções.
@@ -20,7 +20,7 @@ Se a escolha do jogador vencer a do computador, o jogador ganha.
 Caso contrário, o computador vence.
 O jogo continua até que o jogador digite "sair".***
 
-##Como construir o jogo?
+## Como construir o jogo?
 
 ***Crie uma estrutura de repetição (loop while) que permita ao jogador fazer várias jogadas.
 Use um array para armazenar as opções: string[] opcoes = {"pedra", "papel", "tesoura"};.
